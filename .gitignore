@@ -1,0 +1,12 @@
+__pycache__/
+.env
+config.json
+Descargas_Inventario/
+inventarios descargados/
+build/
+dist/
+*.spec
+*.pyc
+.pytest_cache/
+Bot_IEEPO/
+Bot/
